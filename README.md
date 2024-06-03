@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out.
 
-- **Your Name**
-- **Your Email**
-- **LinkedIn Profile**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **Vivek Deshmukh**
+- **deshmukhvivek7548@gmail.com**
+- **LinkedIn Profile**:  https://www.linkedin.com/in/vivek-deshmukh-211aaa195/
 
